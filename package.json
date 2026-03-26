@@ -1,0 +1,9 @@
+{
+  "name": "vesting-factory-erc1167",
+  "version": "1.0.0",
+  "description": "Scalable proxy-based vesting deployment",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
